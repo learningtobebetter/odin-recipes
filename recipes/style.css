@@ -31,10 +31,12 @@ for individual header change */
 
 #serving {
     font-size: 18px;
+    font-style: italic;
 }
 
 #ingredientslist {
     font-size: 18px;
+    
 }
 
 #directions {
