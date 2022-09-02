@@ -1,4 +1,46 @@
-.header1 {
-    background-color: red;
-    color: yellow;
+#header1,
+#header2,
+#header3,
+#header4 {
+    background-color: #b02525;
+    color: #ffd700;
+}
+
+/* for individual header change
+
+#header {
+    background-color: white;
+    color: black;
+}
+
+#header {
+    background-color: white;
+    color: black;
+}
+
+#header {
+    background-color: white;
+    color: black;
+}
+
+for individual header change */
+
+#description {
+    font-size: 18px;
+}
+
+#serving {
+    font-size: 18px;
+}
+
+#ingredientslist {
+    font-size: 18px;
+}
+
+#directions {
+    font-size: 18px;
+}
+
+#facts {
+    font-size: 18px;
 }
